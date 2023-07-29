@@ -1,4 +1,4 @@
-# ```Alphabot-Api```
+# ```Dirrphabot-Api```
 <p align="center">
 <a href="https://github.com/zeeoneofficial/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofficial?color=red&style=flat-square"></a>
 <a href="https://github.com/zeeoneofficial/my-rest-api/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofficial/my-rest-api?color=blue&style=flat-square"></a>
@@ -13,13 +13,13 @@
     </p>
 
 -------
-<h1 align="center">assalamu'alaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm Zeeoneofc 😇 </h1>
+<h1 align="center">assalamu'alaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm Dirroneofc 😇 </h1>
 <p align="center">
   <img src="https://github.com/zeeoneofficial.png" /></>
 </p>
 
-- 👼 My name is Zeeone 
-- 🗣️ I am 18 years old 
+- 👼 My name is Dirroneofc
+- 🗣️ I am 16 years old 
 - 🔭 I am not programmer
 
 ## ```Connect with me```
