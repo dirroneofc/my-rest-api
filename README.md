@@ -1,6 +1,6 @@
-# ```Dirrphabot-Api```
+# ```DirlyBot-Api```
 <p align="center">
-<a href="https://github.com/zeeoneofficial/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofficial?color=red&style=flat-square"></a>
+<a href="https://github.com/dirroneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofficial?color=red&style=flat-square"></a>
 <a href="https://github.com/zeeoneofficial/my-rest-api/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofficial/my-rest-api?color=blue&style=flat-square"></a>
 <a href="https://github.com/zeeoneofficial/my-rest-api/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeoneofficial/my-rest-api?color=red&style=flat-square"></a>
 <a href="https://github.com/zeeoneofficial/my-rest-api/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeoneofficial/my-rest-api?label=Watchers&color=blue&style=flat-square"></a>
@@ -13,23 +13,23 @@
     </p>
 
 -------
-<h1 align="center">assalamu'alaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm Dirroneofc 😇 </h1>
+<h1 align="center">assalamu'alaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm Dirrone Ofc😇 </h1>
 <p align="center">
   <img src="https://github.com/zeeoneofficial.png" /></>
 </p>
 
-- 👼 My name is Dirroneofc
+- 👼 My name is dirly
 - 🗣️ I am 16 years old 
 - 🔭 I am not programmer
 
 ## ```Connect with me```
 <p align="center">
-  <a href="https://instagram.com/zeeoneofc"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/62887435047326"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://instagram.com/drlysengtor_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/6282155772229"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://www.facebook.com/profile.php?id=100015526687857"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  <a href="https://t.me/zeeoneee"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="https://github.com/zeeoneofficial"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
+  <a href="https://t.me/dirroneofc1"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
+  <a href="https://github.com/dirroneofc"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+  <a href="https://youtube.com/@dirroneofc"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
   <a href="https://komarev.com/ghpvc/?username=zeeoneofficial&color=blue&style=flat-square&label=Profile+Dilihat"><img src="https://komarev.com/ghpvc/?username=zeeoneofficial&color=blue&style=flat-square&label=Profile+Dilihat" />
 
 </p>
@@ -66,7 +66,7 @@
 
 ## ```Coffee ☕```
 
-- [`SAWERIA`](https://saweria.co/zeeoneofc)
+- [`SAWERIA`](Wa.me/6285656631612)
 
 ## ```Thanks To```
 
@@ -77,3 +77,4 @@
 - [`Creative Team`]()
 - [`Danzzcoding`]()
 - [`ZeeoneOfc`]()
+- [`DirroneOfc`]()
