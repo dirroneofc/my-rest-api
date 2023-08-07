@@ -36,10 +36,14 @@
 
 ## ```HOW TO INSTALL```
 
-#Forks Github
+# Forks Github
 [![Fork](https://telegra.ph/file/0ac5b4f21a7c153f3bfc7.png)](https://github.com/dirroneofc/my-res-api/fork)
 
+[`Click Here For Tutorial`](https://youtu.be/FqgjPDqWsF0)
 
+<p align="center">
+  <a href="https://youtu.be/FqgjPDqWsF0"><img src="https://telegra.ph/file/65daaa8264afddd90ccb5.jpg" />
+</p>
 
 # Cyclic App
 [![Deploy to Cyclic](https://deploy.cyclic.app/button.svg)](https://app.cyclic.sh/#/join/zeeoneofficial)
